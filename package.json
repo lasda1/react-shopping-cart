@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "typescript": "3.3.3333",
     "universal-cookie": "^4.0.2",
     "write-json-file": "^4.2.1"
